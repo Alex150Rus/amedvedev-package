@@ -1,0 +1,17 @@
+{
+    "name": "amedvedev/first-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Amedvedev\\FirstPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex150Rus"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
